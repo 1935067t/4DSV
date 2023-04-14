@@ -4,7 +4,7 @@
 4次元ストリートビュー用ではありますが、１つの全方位画像もしくは動画を見ることもできます。  
 実行はgoogledrive
 
-https://drive.google.com/drive/folders/1dzWqgH-e9KMNs6vhYIFdEhSE0vxsY8gd?usp=sharing）
+https://drive.google.com/drive/folders/1dzWqgH-e9KMNs6vhYIFdEhSE0vxsY8gd?usp=sharing
 
 にアクセスし実行ファイルを入手するか、OpenSiv3Dをインストールし、main.cppをコピーペーストしてビルドしてください。  
 以下では機能とその使い方について説明します。
