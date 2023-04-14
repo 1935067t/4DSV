@@ -6,7 +6,7 @@
 
 https://drive.google.com/drive/folders/1dzWqgH-e9KMNs6vhYIFdEhSE0vxsY8gd?usp=sharing
 
-にアクセスし実行ファイルを入手するか、OpenSiv3Dをインストールし、main.cppをコピーペーストしてビルドしてください。  
+にアクセスし実行ファイルを入手するか、OpenSiv3Dをインストールし、Main.cppをコピーペーストしてビルドしてください。  
 以下では機能とその使い方について説明します。
  
  
