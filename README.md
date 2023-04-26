@@ -2,11 +2,8 @@
  
 4次元ストリートビュー用のビュワーアプリです。OpenSiv3Dで作られました。  
 4次元ストリートビュー用ではありますが、１つの全方位画像もしくは動画を見ることもできます。  
-実行はgoogledrive
-
-https://drive.google.com/drive/folders/1dzWqgH-e9KMNs6vhYIFdEhSE0vxsY8gd?usp=sharing
-
-にアクセスし実行ファイルを入手するか、OpenSiv3Dをインストールし、Main.cppをコピーペーストしてビルドしてください。  
+実行するためには
+OpenSiv3Dをインストールし、Main.cppをコピーペーストしてビルドしてください。  
 以下では機能とその使い方について説明します。
  
  
