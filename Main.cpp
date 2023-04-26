@@ -164,7 +164,7 @@ void Main()
 						line = initialPosition.split(U' ');
 						currentPosition = Vec3{ Parse<int32>(line[0]) ,Parse<int32>(line[1]), Parse<int32>(line[2]) };
 						svIndex = currentPosition.dot(indexMovement);
-						if (not InRange(svIndex, 0, int(cameraArrangement.dot(Vec3{ 1,1,1 })) - 1))
+						if (not InRange(svIndex, 0, int32(cameraArrangement.x*cameraArrangement.y*cameraArrangement.z - 1)))
 						{
 							Console << U"invalid position";
 							continue;
