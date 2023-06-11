@@ -336,7 +336,7 @@ void Main()
 				frameTexture.fill(frameImage);
 			}
 		}
-
+		//時間を進める
 		if (isPlay)
 		{
 			frameTimeSec += Scene::DeltaTime();
